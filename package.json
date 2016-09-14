@@ -1,0 +1,11 @@
+{
+  "name": "reviso",
+  "version": "1.0.0",
+  "description": "A thin wrapper around request to make it easy to work with the Reviso REST API",
+  "main": "index.js",
+  "author": "Reviso International ApS",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.74.0"
+  }
+}
