@@ -7,5 +7,6 @@
   "license": "MIT",
   "dependencies": {
     "request": "^2.74.0"
-  }
+  },
+  "repository": "git://github.com/revisohq/node-reviso"
 }
